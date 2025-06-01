@@ -57,9 +57,14 @@ If you need contributor access, file a request through internal channels.
 ---
 
 ## 🤝 Support and Contact
-**Admin:** Tony Zurenda  
+
+**Admin:** ROAD HAMMER   
 **GitHub Handle:** `Road-Hammer`  
-**Primary Asset:** Truck 419021
+**Primary Asset:** [Road Hammer](https://www.tiktok.com/@1stroadhammer?is_from_webapp=1&sender_device=pc) <BR>
+**YouTube       **      [Road Hammer](https://www.tiktok.com/@1stroadhammer) <BR>
+**Telegram      **   https://t.me/RoadHammer1
+
+
 
 For direct contact, use secure protocols or approved email endpoints.
 

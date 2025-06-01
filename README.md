@@ -2,6 +2,65 @@
 
 **Welcome to the command center.** This is the centralized digital operations hub for the long-term legacy initiative known as **"Road To Home."** This holding company anchors a vertically integrated ecosystem spanning logistics, finance, property, technical trades, and strategic infrastructure.
 
+The Bible says that; "A righteous man, will leave an inheritance to his childern's, childern!"
+
+📜 Proverbs 13 – Highlights, Verse by Verse (Condensed + Interpreted)
+
+    “A wise son hears his father's instruction, but a scoffer does not listen to rebuke.”
+    → If you’re smart, you shut up and listen. Fools run their mouths and ignore the people trying to save them.
+
+    “From the fruit of his mouth a man eats what is good...”
+    → Speak life, speak truth — your words can either feed or starve you.
+
+    “Whoever guards his mouth preserves his life...”
+    → Watch your tongue or it’ll dig your grave.
+
+    “The soul of the sluggard craves and gets nothing...”
+    → Lazy folks dream big but do nothing. The diligent? They get fed.
+
+    “The righteous hates falsehood...”
+    → If you walk right, lies make you sick. Crooked men drown in their own stink.
+
+    “Righteousness guards him whose way is blameless...”
+    → Clean living acts like armor. Sinful behavior? It’s a trap.
+
+    “One pretends to be rich, yet has nothing; another pretends to be poor, yet has great wealth.”
+    → Smoke and mirrors. Don’t be fooled by the shine or the struggle.
+
+    “The ransom of a man’s life is his wealth...”
+    → Money might buy you out of trouble, but the poor man doesn’t even show up on the radar.
+
+    “The light of the righteous rejoices, but the lamp of the wicked will be put out.”
+    → God shines through the good; the wicked get snuffed.
+
+    “By insolence comes nothing but strife, but with those who take advice is wisdom.”
+    → Hard-headedness leads to fights. Wisdom listens.
+
+⚔️ Verses That Really Hit in This Season
+
+    Verse 12: “Hope deferred makes the heart sick, but a desire fulfilled is a tree of life.”
+    → That waiting game breaks a man down, but when the thing you’ve been fighting for finally lands — it’s life-giving.
+
+    Verse 20: “Whoever walks with the wise becomes wise, but the companion of fools will suffer harm.”
+    → Your circle can bless you or burn you. Choose your people like your life depends on it — because it does.
+
+    Verse 22: “A good man leaves an inheritance to his children’s children…”
+    → You’re not just building for now. You’re laying foundation for the grandkids. Legacy is the long game.
+
+🔚 Big Picture of Proverbs 13
+
+This chapter cuts straight:
+
+    Discipline = Growth
+
+    Wisdom = Safety
+
+    Laziness = Ruin
+
+    Righteousness = Legacy
+
+
+
 ---
 
 ## 🧭 Mission Statement

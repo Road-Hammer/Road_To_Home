@@ -7,6 +7,8 @@ See `TOM_MODULE.md` for instructions on how our AI assistant "Tom" should operat
 
 > For operational rules and assistant behavior, see `TOM_MODULE.md`.
 
+> Machine-readable AI config: `tom_brain.json`
+
 
 The Bible says that; "A righteous man, will leave an inheritance to his childern's, childern!"
 

@@ -2,6 +2,9 @@
 
 **Welcome to the command center.** This is the centralized digital operations hub for the long-term legacy initiative known as **"Road To Home."** This holding company anchors a vertically integrated ecosystem spanning logistics, finance, property, technical trades, and strategic infrastructure.
 
+## Tom the AI Copilot
+See `TOM_MODULE.md` for instructions on how our AI assistant "Tom" should operate.
+
 The Bible says that; "A righteous man, will leave an inheritance to his childern's, childern!"
 
 📜 Proverbs 13 – Highlights, Verse by Verse (Condensed + Interpreted)

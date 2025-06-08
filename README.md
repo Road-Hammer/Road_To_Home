@@ -5,6 +5,9 @@
 ## Tom the AI Copilot
 See `TOM_MODULE.md` for instructions on how our AI assistant "Tom" should operate.
 
+> For operational rules and assistant behavior, see `TOM_MODULE.md`.
+
+
 The Bible says that; "A righteous man, will leave an inheritance to his childern's, childern!"
 
 📜 Proverbs 13 – Highlights, Verse by Verse (Condensed + Interpreted)

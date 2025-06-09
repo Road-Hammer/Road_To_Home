@@ -89,7 +89,7 @@ To forge a self-sustaining business network built on traditional values, tactica
 ---
 
 ## 📦 Subsidiaries (Active or Planned)
-- **Ridgerunner Express** – Hotshot trucking firm (Phase 1 launched)
+- **Ridgerunner Express** – Bulk 53' dry van operation with a hotshot division (Phase 1 launched)
 - **Susquehanna Fleet Leasing Co.** – Truck & equipment leasing arm
 - **Trail View Lending** – Equipment financing and lending services
 - **Ridgerunner Fleet Services** – Repair & maintenance hub

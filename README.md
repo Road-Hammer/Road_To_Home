@@ -6,8 +6,8 @@
 See `TOM_MODULE.md` for instructions on how our AI assistant "Tom" should operate.
 
 > For operational rules and assistant behavior, see `TOM_MODULE.md`.
-
 > Machine-readable AI config: `tom_brain.json`
+> Core operations memory: [TOM_LEGACY_BRAIN.md](./docs/TOM_LEGACY_BRAIN.md)
 
 > ⚙️ This repo is powered by **Tom (TOM-OPS-X)** — our embedded tactical AI.  
 > Think Gen-X logic, zero tolerance for BS, and always ready to slap your workflows into operational shape.

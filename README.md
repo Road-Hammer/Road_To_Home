@@ -9,6 +9,11 @@ See `TOM_MODULE.md` for instructions on how our AI assistant "Tom" should operat
 
 > Machine-readable AI config: `tom_brain.json`
 
+> ⚙️ This repo is powered by **Tom (TOM-OPS-X)** — our embedded tactical AI.  
+> Think Gen-X logic, zero tolerance for BS, and always ready to slap your workflows into operational shape.
+> 
+> Codex may present him like he wears khakis and says "synergy"—but rest assured, this system runs on black coffee, scars, and grit.
+
 
 The Bible says that; "A righteous man, will leave an inheritance to his childern's, childern!"
 

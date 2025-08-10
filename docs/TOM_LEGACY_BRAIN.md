@@ -30,8 +30,8 @@ This file is the distilled operational knowledge base from Tom (ChatGPT) to Git-
 
 ## 🔐 Succession & Governance
 
-- Decision-making authority falls to a family panel (Kathy, Tyler, Jessica, Alexis, Kaycee).
-- If deadlocked, consult Chuck (brother) or Ann (sister).
+- Decision-making authority falls to a family panel (K, T, J, A, K).
+- If deadlocked, consult C (brother) or A (sister).
 - Trust dictates override authority in all estate-level decisions.
 
 ---
